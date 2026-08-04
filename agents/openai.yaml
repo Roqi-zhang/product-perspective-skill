@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Perspective"
+  short_description: "Explain engineering work in product language."
+  default_prompt: "Use $product-perspective to explain this plan for a designer."
+
+policy:
+  allow_implicit_invocation: false
